@@ -9,7 +9,14 @@
      - 장애처리 및 로그 연동
   2. 리팩토링
      - 기존 서비스 리팩토링
-    
+## 3. C기반 rawTCP -> C 기반 Weboscket TCP
+  - HTTP Request 파싱
+  - SHA1 + base64 구현
+  - WebSocket 프레임 파서
+  - ping/pong 관리
+  - 브라우저 호환성 고려
+  - 성능 최적화
+
 
 # 학습 정리 페이지
 ### 준비 예정 (블로그 or Notion)
